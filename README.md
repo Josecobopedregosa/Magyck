@@ -1,0 +1,2 @@
+# Magyck
+Programas y ideas 
